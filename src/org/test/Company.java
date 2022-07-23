@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	Employee e=new Employee();
 	e.empId();
 	e.empName();
-	
+	System.out.println("page2");
 	
 }
 }
