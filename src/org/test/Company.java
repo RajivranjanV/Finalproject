@@ -15,6 +15,7 @@ public static void main(String[] args) {
 	e.empId();
 	e.empName();
 	System.out.println("page1");
-	
+	System.out.println("page2");
+
 }
 }
